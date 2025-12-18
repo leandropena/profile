@@ -32,5 +32,5 @@ I am also a **co-author** of several books on Agile, DevOps, and Product journey
 
 ### 📫 How to Reach Me
 
-* **Website:** https://lpbarreto.com
+* **Website:** https://lndtech.eu
 * **LinkedIn:** https://www.linkedin.com/in/leandrobarreto/
